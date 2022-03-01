@@ -1,4 +1,4 @@
-### Quy tắc tròn chơi
+### Quy tắc trò chơi
 
 -   Để bắt đầu chơi, bạn bắt buộc phải nhập đầy đủ tên vào cả 2 ô, nếu không bạn không thể chơi và sẽ có thông báo hiện lên
 
