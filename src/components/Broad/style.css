@@ -1,0 +1,11 @@
+.btn1{
+     height: 40px;
+     width: 40px;
+     border: 1px solid #da5b20;
+}
+.displayMain{
+     display: flex;
+     flex-wrap: wrap;
+     width: 240px;
+     margin: 16px auto 0px;
+}

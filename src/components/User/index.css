@@ -1,0 +1,25 @@
+input{
+     padding: 4px 8px;
+}
+div.user{
+     font-weight: 700;
+     font-size: 1.2rem;
+     margin-bottom: 1.2rem;
+}
+div.user>span{
+     color: rgb(255, 0, 255);
+}
+
+div.userFlex{
+     display: flex;
+     /* justify-content: space-evenly; */
+     /* flex-wrap: wrap; */
+     flex-direction: column;
+}
+div.userFlex>div{
+     margin-bottom: 4px;
+}
+div#common{
+     margin: 0 auto;
+     width: fit-content;
+}
