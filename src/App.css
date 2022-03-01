@@ -9,7 +9,7 @@
 }
 .App .rule{
   flex-basis: 30%;
-
+  text-align: justify;
   border: 1px solid rgb(123, 125, 156);
   padding: 8px 12px;
   margin: 24px 24px 0 64px;
@@ -17,8 +17,7 @@
 }
 .rule h3{
   margin: 8px 0px;
-
-
+  text-align: center;
 }
 
 @media (max-width:700px){

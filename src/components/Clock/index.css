@@ -13,4 +13,5 @@ p.clock{
 }
 p.timed{
      font-style: italic;
+     text-align: center;
 }

@@ -163,7 +163,15 @@ function Nuclear(props) {
 
     return (
         <div>
-            <h3>
+            <h3
+                style={{
+                    textAlign: "center",
+                    borderRadius: "15px",
+                    width: "fit-content",
+                    margin: "auto",
+                    padding: "8px 12px",
+                }}
+            >
                 <span>{winer === undefined && isEnd && result}</span>
                 <span>
                     {winer != undefined && isEnd && result}{" "}
